@@ -6,7 +6,7 @@
 
 Here is skreenshot
 
-![image](https://github.com/FilipToth/amazing-theme/blob/master/screenshot.ong?raw=true)
+![image](https://github.com/FilipToth/amazing-theme/blob/master/screenshot.png?raw=true)
 
 Here's a markdown table 4 u:::::::::::::::::::::::::::::::::::::::::::::::::::::
 | Syntax      | Description | Test Text     |
