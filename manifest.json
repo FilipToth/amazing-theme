@@ -3,5 +3,10 @@
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
 	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md"
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": {
+		"Buy Me a Coffee": "https://buymeacoffee.com",
+		"GitHub Sponsor": "https://github.com/sponsors",
+		"Patreon": "https://www.patreon.com/"
+	  }
 }

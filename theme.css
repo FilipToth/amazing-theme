@@ -1,13 +1,15 @@
 body {
-	--radius-s: 0px;
-	--radius-m: 0px;
-	--radius-l: 0px;
-	--input-radius: 0px;
-	--tab-radius-active: 0px;
-	--checkbox-radius: 0px;
-	--toggle-radius: 0px;
-	--toggle-thumb-radius: 0px;
-	--slider-thumb-radius: 0px;
+	--radius-s: 100px;
+	--radius-m: 100px;
+	--radius-l: 100px;
+	--input-radius: 100px;
+	--tab-radius-active: 100px;
+	--checkbox-radius: 100px;
+	--toggle-radius: 100px;
+	--toggle-thumb-radius: 100px;
+	--slider-thumb-radius: 100px;
+
+	color: #44ff00;
 }
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
@@ -31,4 +33,14 @@ svg * {
 
 .menu-separator {
 	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}
+
+.theme-dark {
+	--background-primary: #FB0471;
+	--background-secondary: #feff00;
+}
+
+.theme-light {
+	--background-primary: #FB0471;
+	--background-secondary: #feff00;
 }
